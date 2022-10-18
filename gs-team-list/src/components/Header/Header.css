@@ -1,0 +1,8 @@
+.header {
+  background-color: red;
+  color: yellow;
+  margin-bottom: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  padding: 10px;
+}

@@ -1,0 +1,23 @@
+body {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  position: relative;
+}
+.App {
+  background-color: rgb(56, 52, 52);
+  text-align: center;
+  width: 600px;
+  margin: auto;
+  /* padding: 10px; */
+  margin-top: 10px;
+  border-radius: 20px;
+  height: 750px;
+}
+button {
+  width: 5rem;
+  height: 2rem;
+  background-color: yellow;
+  color: black;
+  border-radius: 5px;
+  margin-right: 5px;
+}
