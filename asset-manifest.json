@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GS-PLAYERS/static/css/main.5d6360f4.css",
+    "main.js": "/GS-PLAYERS/static/js/main.f907ce8e.js",
+    "index.html": "/GS-PLAYERS/index.html",
+    "main.5d6360f4.css.map": "/GS-PLAYERS/static/css/main.5d6360f4.css.map",
+    "main.f907ce8e.js.map": "/GS-PLAYERS/static/js/main.f907ce8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d6360f4.css",
+    "static/js/main.f907ce8e.js"
+  ]
+}
