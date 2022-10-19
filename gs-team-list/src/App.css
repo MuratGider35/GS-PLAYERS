@@ -1,7 +1,7 @@
 body {
   color: white;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  position: relative;
+  /* position: relative; */
 }
 .App {
   background-color: rgb(56, 52, 52);
@@ -12,6 +12,7 @@ body {
   margin-top: 10px;
   border-radius: 20px;
   height: 750px;
+  position: relative;
 }
 button {
   width: 5rem;
