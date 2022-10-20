@@ -15,3 +15,19 @@ img {
   align-items: flex-start;
   margin-left: 3rem;
 }
+@media only screen and (max-device-width: 480px) {
+  .content {
+    font-size: 0.7rem;
+  }
+}
+
+@media only screen and (max-device-width: 480px) {
+  .content h1 {
+    font-size: 0.8rem;
+  }
+}
+@media only screen and (max-device-width: 480px) {
+  img {
+    width: 70px;
+  }
+}

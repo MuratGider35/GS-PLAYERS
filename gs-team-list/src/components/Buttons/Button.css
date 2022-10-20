@@ -3,3 +3,8 @@
   bottom: 0px;
   right: 38%;
 }
+@media only screen and (max-device-width: 480px) {
+  .button {
+    right: 28%;
+  }
+}
